@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  padding: 2rem;
+  background-color: #f9fafc;
+  font-weight: normal;
+  padding: 2rem;
+}
+
+.element-padding {
+  padding: 12px 16px;
+}
